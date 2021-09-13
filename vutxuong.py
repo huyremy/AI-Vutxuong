@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-import time
 import imageio
 import tensorflow 
 from tensorflow.keras.layers import *
@@ -40,7 +39,6 @@ x = x.astype('float32') / 255
 x1 = np.expand_dims(x, axis=0)
 
 pred = anet_bs.predict(x1)
-
 
 test_img = np.reshape(pred, (256,256,1)) 
 imageio.imwrite('koxuong.png', test_img)
