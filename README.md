@@ -1,10 +1,10 @@
 # AI-Vutxuong
-Bone Shadow Removal<br> 
+**Bone Shawdow Removal**
 ---------
 ![Trước](https://github.com/huyremy/AI-Vutxuong/blob/main/test.png) | ![Sau](https://github.com/huyremy/AI-Vutxuong/blob/main/huyremy.png)<br>
 ---------
 ![Trước2](https://github.com/huyremy/AI-Vutxuong/blob/main/imgclass.png)
 ---------
-python3 vutxuong.py
+**run: python3 vutxuong.py**
 ---------
-huynq@isi.com.vn
+huynq@isi.com.vn - http://anticovid.ml
