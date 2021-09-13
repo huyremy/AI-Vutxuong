@@ -1,5 +1,5 @@
 # AI-Vutxuong
-**Bone Shawdow Removal**
+**Bone Shadow Removal**
 ---------
 ![Trước](https://github.com/huyremy/AI-Vutxuong/blob/main/coxuong.png)   ![Sau](https://github.com/huyremy/AI-Vutxuong/blob/main/koxuong.png)<br>
 ---------
