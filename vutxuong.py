@@ -31,7 +31,7 @@ anet_bs.load_weights("vutxuong.h5")
 
 print("Load mod done")
 
-img = Image.open('test.png')
+img = Image.open('coxuong.png')
 img = img.resize((256,256)) 
 
 x = image.img_to_array(img)
@@ -43,5 +43,5 @@ pred = anet_bs.predict(x1)
 
 
 test_img = np.reshape(pred, (256,256,1)) 
-imageio.imwrite('huyremy.png', test_img)
+imageio.imwrite('koxuong.png', test_img)
 print("Done")
